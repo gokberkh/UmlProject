@@ -1,0 +1,13 @@
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe.config
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form1.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form2.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form3.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Database1.mdf
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Database1_log.ldf
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.pdb
